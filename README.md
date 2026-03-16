@@ -1,6 +1,10 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Description
+
+As a home theater entusiast I want to create a 3D visualizer application to understand the relationship between sceen diagonal measurement, screen viewing distance and the horizontal viewing angle that results.  OptiView is the result of the following prompt used by agentic AI Google AntiGravity.  The model used was Gemini 3 Flash Preview on the free tier.  The implementation took approximately 1 minute to create.  Enjoy.
+
+# Google Antigravity Prompt Used
+
+Create a single page html app using javascript to display the relationship between diagonal screen measurement, the viewing distance from that screen and the horizontal viewing angle that results. allow a slider for diagonal screen measurement from 42 inches up to and including 120 inches. have another slider for seating distance in feet with half-foot increments from 5 feet to 25 feet. have a toggle to change screen aspect ration from 16:9 to to 4:3 with 16:9 being the default. Display the viewing screen and the seated view three dimensionally.  Make the UI light themed.
 
 # Run and deploy your AI Studio app
 
