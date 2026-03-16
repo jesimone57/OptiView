@@ -1,0 +1,5 @@
+{
+  "name": "Screen Viewing Angle Visualizer",
+  "description": "A 3D tool to calculate and visualize the relationship between screen size, viewing distance, and horizontal viewing angle.",
+  "requestFramePermissions": []
+}
